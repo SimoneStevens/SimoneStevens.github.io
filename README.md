@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>In Development</h1>
+<p>Working on a website to display my projects.</p>
 </body>
 </html>
