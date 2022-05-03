@@ -1,6 +1,25 @@
 <html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
 <body>
-<h1>In Development</h1>
-<p>Working on a website to display my projects.</p>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
 </body>
+</html>
+
+
+
 </html>
